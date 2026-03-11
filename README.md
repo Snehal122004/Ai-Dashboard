@@ -3,7 +3,7 @@ A concise, descriptive name for the dashboard.
 
 Example:
 
-🤖 AI Adoption Analytics: Industry Insights Dashboard
+AI Adoption Analytics: Industry Insights Dashboard
 
 A dynamic and interactive data visualization dashboard built using Power BI to explore how Artificial Intelligence tools are being adopted across industries, countries, company sizes, and age groups. The dashboard focuses on analyzing AI adoption trends, user engagement, and industry comparisons.
 
