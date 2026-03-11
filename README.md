@@ -142,4 +142,5 @@ Global AI Trends:
 The dashboard helps compare AI adoption across different countries and industries.
 6.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: [AI Adoption Overview Dashboard.PNG](https://github.com/Snehal122004/Ai-Dashboard/blob/main/AI%20Adoption%20Overview%20Dashboard.PNG)
+Example 1: [AI Adoption Overview Dashboard.PNG](https://github.com/Snehal122004/Ai-Dashboard/blob/main/AI%20Adoption%20Overview%20Dashboard.PNG)
+Example 2: https://github.com/Snehal122004/Ai-Dashboard/blob/main/Country%20Analysis.PNG
